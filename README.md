@@ -1,2 +1,2 @@
-# Static-Mockup1
-Static Website Mockup.
+# Static-Mockup2
+Static Website Mockup. SPA version.
